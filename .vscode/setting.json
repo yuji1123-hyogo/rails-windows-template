@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+
+  "[ruby]": {
+    "editor.defaultFormatter": "misogi.ruby-rubocop"
+  },
+  "ruby.rubocop.executePath": "bundle",
+  "ruby.rubocop.useBundler": true
+}
